@@ -31,7 +31,10 @@ public class UnidaysDiscountChallenge
         System.out.println("E               £5.00       3 FOR THE PRICE OF TWO\n");
     }
 
-    // A method that enables the customer to add their desired product into the ArrayList.They have to give the String Product stating which one they require when this method is called.
+     /**
+     * A method that enables the customer to add their desired product into the ArrayList.They have to give the String Product stating which one they require when this method is called.
+     * Simply enter the String of the product you want E.g if you want A then type -  "A" into the textfield
+     */
     public void AddToBasket(String Product)
     {
         // adding the Product into the Product ArrayList
