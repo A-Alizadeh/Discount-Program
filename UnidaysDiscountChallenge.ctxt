@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=UnidaysDiscountChallenge
+comment0.text=\r\n\ This\ is\ the\ UniDaysDiscountChallenege\ Class\ where\ all\ of\ the\ functionality\ will\ be\ coded\r\n\r\n\ @author\ Ali\ Alizadeh\r\n\ @version\ 02\ Nov\ 2018\r\n\ \r\n
+comment1.params=
+comment1.target=UnidaysDiscountChallenge()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ UniDaysDiscountChallenge\r\n
+comment2.params=Product
+comment2.target=void\ AddToBasket(java.lang.String)
+comment3.params=
+comment3.target=void\ CalculateTotalPrice()
+comment4.params=
+comment4.target=void\ printList()
+comment5.params=
+comment5.target=void\ printTotal()
+numComments=6
