@@ -9,6 +9,7 @@ VERSION or DATE: 02 / Nov / 2018
 AUTHORS: Ali Alizadeh
 
 BLUEJ DOWNLOAD LINK: https://www.bluej.org/versions.html
+
 RELEASE NOTES: https://www.bluej.org/download/release-notes.html
 
 HOW TO START THIS PROJECT: Have BlueJ IDE downloaded. Once downloaded and opened go into the 'Project' tab and select 'Open Project'. Once the window has opened locate the folder you are currently storing my UNiDAYS folder in (probably Download) and then select Folder! 
